@@ -1,0 +1,22 @@
+[
+    {
+        "text": "#",
+        "value": "id",
+        "class": "text-start"
+    },
+    {
+        "text": "Название",
+        "value": "title",
+        "class": "text-start"
+    },
+    {
+        "text": "Артикул",
+        "value": "vendorCode",
+        "class": "text-start"
+    },
+    {
+        "text": "Действия",
+        "value": "actions",
+        "class": "text-end"
+    }
+]

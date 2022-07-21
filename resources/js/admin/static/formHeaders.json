@@ -1,0 +1,32 @@
+[
+    {
+        "text": "#",
+        "value": "id",
+        "class": "text-start"
+    },
+    {
+        "text": "Имя",
+        "value": "name",
+        "class": "text-start"
+    },
+    {
+        "text": "Телефон",
+        "value": "phone",
+        "class": "text-start"
+    },
+    {
+        "text": "Email",
+        "value": "email",
+        "class": "text-start"
+    },
+    {
+        "text": "Товар",
+        "value": "product",
+        "class": "text-start"
+    },
+    {
+        "text": "Действия",
+        "value": "actions",
+        "class": "text-end"
+    }
+]

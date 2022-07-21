@@ -1,0 +1,32 @@
+[
+    {
+        "text": "#",
+        "value": "id",
+        "class": "text-start"
+    },
+    {
+        "text": "Код",
+        "value": "code",
+        "class": "text-start"
+    },
+    {
+        "text": "Статус",
+        "value": "status",
+        "class": "text-start"
+    },
+    {
+        "text": "Количество позиций",
+        "value": "products",
+        "class": "text-start"
+    },
+    {
+        "text": "Общая стоимость",
+        "value": "totalPrice",
+        "class": "text-start"
+    },
+    {
+        "text": "Действия",
+        "value": "actions",
+        "class": "text-end"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "text": "#",
+        "value": "id",
+        "class": "text-start"
+    },
+    {
+        "text": "Значение",
+        "value": "value",
+        "class": "text-start"
+    },
+    {
+        "text": "Действия",
+        "value": "actions",
+        "class": "text-end"
+    }
+]

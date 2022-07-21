@@ -1,0 +1,37 @@
+[
+    {
+        "text": "#",
+        "value": "id",
+        "class": "text-start"
+    },
+    {
+        "text": "Название",
+        "value": "title",
+        "class": "text-start"
+    },
+    {
+        "text": "Код",
+        "value": "code",
+        "class": "text-start"
+    },
+    {
+        "text": "Количество разделов",
+        "value": "countSections",
+        "class": "text-start"
+    },
+    {
+        "text": "Количество товаров(в подразделах)",
+        "value": "countProducts",
+        "class": "text-start"
+    },
+    {
+        "text": "Вложенность",
+        "value": "level",
+        "class": "text-start"
+    },
+    {
+        "text": "Действия",
+        "value": "actions",
+        "class": "text-end"
+    }
+]
